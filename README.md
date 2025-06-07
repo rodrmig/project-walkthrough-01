@@ -54,4 +54,4 @@ def graph_points_in_2d_array(two_dimensional_array):
 ```
 
 ## 5. Save the data from the 2-D array and the graph image into a new excel
-I'll let you work through this last step :). It is not clear in the instruction if this has to be done via python or if this can be done manually - check with the instructor to understand this requirement.
+I'll let you work through this last step :). It is not clear in the instruction if this has to be done programmatically via python or if this can be done manually - check with the instructor to understand this requirement.
